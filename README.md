@@ -2,7 +2,7 @@
 
 This update site is automatically updated with the latest *SNAPSHOT* of the Cucumber Eclipse plugin.
 
-If you are searching about a stable release, please use ise the [stable update site](https://qvdk.github.io/cucumber-eclipse-updates) instead of this one.
+If you are searching about a stable release, please use ise the [stable update site](https://cucumber.github.io/cucumber-eclipse-update-site) instead of this one.
 
 They are 3 ways to install the Cucumber eclipse plugin
 
@@ -12,7 +12,7 @@ They are 3 ways to install the Cucumber eclipse plugin
 ## From this update site
 
  * From Eclipse, go to menu Help > Install New software
- * Work with: https://qvdk.github.io/cucumber-eclipse-updates-snapshot
+ * Work with: https://cucumber.github.io/cucumber-eclipse-update-site-snapshot
  * Select the check-box for 'Cucumber Eclipse Plugin'
  * Select Next as per the instruction shown during installation.
  * Now Restart your Eclipse after completion of instruction.

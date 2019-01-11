@@ -2,7 +2,7 @@
 
 This update site is automatically updated with the latest *SNAPSHOT* of the Cucumber Eclipse plugin.
 
-If you are searching about a stable release, please use the [stable update site](https://cucumber.github.io/cucumber-eclipse-update-site) instead of this one.
+If you are searching about a stable release, please use the [stable update site](https://github.com/cucumber/cucumber-eclipse-update-site) instead of this one.
 
 They are 3 ways to install the Cucumber eclipse plugin
 

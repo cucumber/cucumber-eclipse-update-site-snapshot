@@ -1,4 +1,4 @@
-![cucumber eclipse](/assets/cucumber-black-128.png) Eclipse plugin update site
+![cucumber eclipse](/assets/cucumber-black-128.png) **Eclipse plugin update site**
 
 This update site is automatically updated with the latest *SNAPSHOT* of the Cucumber Eclipse plugin.
 

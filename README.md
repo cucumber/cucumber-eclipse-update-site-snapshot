@@ -25,4 +25,4 @@ For more information, see [Eclipse help](https://help.eclipse.org/kepler/index.j
 
 Download a [zip archive of the cucumber eclipse update site](https://github.com/cucumber/cucumber-eclipse/releases)
 
-Then, follow the previous installation instructions, but replace the Work with by the location where you extracted the zip content.
+Then, follow the previous installation instructions, but replace the Work with by the location where you downloaded the zip archive.

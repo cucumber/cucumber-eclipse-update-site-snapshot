@@ -4,10 +4,10 @@ This update site is automatically updated with the latest *SNAPSHOT* of the Cucu
 
 If you are searching about a stable release, please use the [stable update site](https://github.com/cucumber/cucumber-eclipse-update-site) instead of this one.
 
-They are 3 ways to install the Cucumber eclipse plugin
+They are 2 ways to install the snapshot of Cucumber eclipse plugin
 
- * offline installation
  * this eclipse update site
+ * offline installation
 
 ## From this update site
 

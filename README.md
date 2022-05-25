@@ -1,18 +1,9 @@
-![cucumber eclipse](/assets/cucumber-black-128.png) **Eclipse plugin update site**
+## This repository is no longer used!
 
-This update site is automatically updated with the latest *SNAPSHOT* of the Cucumber Eclipse plugin.
-
-If you are searching about a stable release, please use the [stable update site](https://github.com/cucumber/cucumber-eclipse-update-site) instead of this one.
-
-They are 2 ways to install the snapshot of Cucumber eclipse plugin
-
- * this eclipse update site
- * offline installation
-
-## From this update site
+You can still install from this update site with the new URL:
 
  * From Eclipse, go to menu `Help` > `Install New software`
- * Work with: `https://cucumber.github.io/cucumber-eclipse-update-site-snapshot`
+ * Work with: `https://cucumber.github.io/cucumber-eclipse/update-site`
  * Select the check-box for `Cucumber Eclipse Plugin`
  * Select Next as per the instruction shown during installation.
  * Restart your Eclipse after completion of instruction.
@@ -21,8 +12,4 @@ They are 2 ways to install the snapshot of Cucumber eclipse plugin
 For more information, see [Eclipse help](https://help.eclipse.org/kepler/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/tasks-124.htm
 ).
 
-## Offline installation
-
-Download a [zip archive of the cucumber eclipse update site](https://github.com/cucumber/cucumber-eclipse/releases)
-
-Then, follow the previous installation instructions, but replace the Work with by the location where you downloaded the zip archive.
+If you like to get the latest snapshot please use the URL https://cucumber.github.io/cucumber-eclipse/update-site/main/
